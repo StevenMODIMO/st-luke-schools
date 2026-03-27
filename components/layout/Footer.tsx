@@ -12,11 +12,11 @@ export default function Footer() {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-4">
               <div className="relative w-10 h-10 bg-white/10 rounded-lg p-1">
-                <Image src="/images/school-logo.png" alt="Logo" fill className="object-contain" />
+                <Image src="/images/school-logos.png" alt="Logo" fill className="object-contain" />
               </div>
               <div>
-                <div className="font-display font-bold text-white text-base">Flame Academy</div>
-                <div className="text-[10px] text-charcoal-400 tracking-[0.1em] uppercase">Est. 2004</div>
+                <div className="font-display font-bold text-white text-base">St.Luke Endamaghan Schools</div>
+                <div className="text-[10px] text-charcoal-400 tracking-[0.1em] uppercase">Est. 2026</div>
               </div>
             </div>
             <p className="text-sm text-charcoal-400 leading-relaxed mb-5">
