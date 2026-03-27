@@ -39,10 +39,10 @@ export default function Navbar() {
           </div>
           <div className="leading-tight">
             <div className="font-display font-bold text-charcoal-900 text-sm tracking-wide">
-              Flame Academy
+              St. Luke Endamaghan Schools
             </div>
             <div className="text-[10px] text-charcoal-400 tracking-[0.12em] uppercase font-body">
-              Excellence · Integrity · Vision
+              Academic Excellence with Integrity
             </div>
           </div>
         </Link>

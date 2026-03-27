@@ -68,10 +68,10 @@ export default function Footer() {
           <div>
             <h4 className="font-display font-semibold text-white text-sm mb-4 uppercase tracking-wider">Contact</h4>
             <ul className="space-y-3">
-              <li className="flex items-start gap-2.5 text-sm text-charcoal-400">
+              <Link href="https://www.google.com/maps/place/St.+Luke+Primary+School/@-3.222053,35.2651412,17z/data=!3m1!4b1!4m6!3m5!1s0x1834631a4709fb65:0xcf73e89a6e0559a9!8m2!3d-3.222053!4d35.2651412!16s%2Fg%2F11ptsbh3vh?entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D" target="_blank" className="flex items-start gap-2.5 text-sm text-flame-400 underline cursor-pointer">
                 <MapPin size={14} className="mt-0.5 flex-shrink-0 text-flame-400" />
-                <span>123 Academy Road, Dar es Salaam, Tanzania</span>
-              </li>
+                <span>Endulen, Arusha, Tanzania</span>
+              </Link>
               <li className="flex items-center gap-2.5 text-sm text-charcoal-400">
                 <Phone size={14} className="flex-shrink-0 text-flame-400" />
                 <span>+255 712 345 678</span>
