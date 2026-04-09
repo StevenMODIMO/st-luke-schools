@@ -78,7 +78,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-2.5 text-sm text-charcoal-400">
                 <Mail size={14} className="flex-shrink-0 text-flame-400" />
-                <span>info@flameacademy.ac.tz</span>
+                <span>info@st-luke-schools.ac.tz</span>
               </li>
             </ul>
           </div>
